@@ -7,3 +7,4 @@ To begin working on this repository:
 3. Create a folder somewhere on your computer to store this repository (do not make it where your CCS Project is).
 4. In the terminal window at the bottom of VS Code, use the cd command to navigate to the folder you created. 
 5. Type: git clone https://github.com/justinschubeck/robot-driver.git
+6. Press Enter
