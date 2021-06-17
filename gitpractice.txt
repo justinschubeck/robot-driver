@@ -1,3 +1,0 @@
-This is a sample file to practice using Git.
-
-Alex is so ugly I hope he turns off that camera. 
