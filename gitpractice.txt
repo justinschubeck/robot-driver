@@ -1,3 +1,0 @@
-This is a sample file to practice using Git.
-
-Justin is ugly.
