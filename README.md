@@ -1,5 +1,6 @@
 # robot-driver
 TI-RSLK MAX TI University Summer Program Robot Code
+https://www.hackster.io/jschubeck7/texas-instruments-rslk-mearm-e74237
 
 This example accompanies the books
    "Embedded Systems: Introduction to the MSP432 Microcontroller",
